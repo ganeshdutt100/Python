@@ -19,10 +19,14 @@
 # print("Power of num1 ", num1**3)
  
 
-name = "Ganesh"
-# nameShort = name[-1:-4]
-nameShort = name[0:3]
-nameShort = name[-4:-1]
-nameShort = name[:]
+# name = "Ganesh"
+# # nameShort = name[-1:-4]
+# nameShort = name[0:3]
+# nameShort = name[-4:-1]
+# nameShort = name[:]
 
-print(nameShort)
+# print(nameShort)
+
+
+name  = "Ganesh "
+print(len(name))
